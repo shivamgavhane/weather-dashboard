@@ -30,4 +30,4 @@ This project focuses on API integration, real-world frontend logic, and clean UI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/weather-dashboard-react.git
+   git clone https://github.com/shivamgavhane/weather-dashboard-react.git
